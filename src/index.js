@@ -66,3 +66,4 @@ console.log(nome) */
 console.log(typeof jogarbola) // tipo de dado que eu uso na variavel que foi chamada
 console.log(typeof number)
 console.log(typeof nome) */
+
